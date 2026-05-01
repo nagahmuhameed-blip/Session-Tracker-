@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Session tracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Dr Mohammed",
+  "start_url": "https://agent-69f418cfca667--fascinating-smakager-5df2d6.netlify.app/",
+  "theme_color": "#060e1c",
+  "lang": "en"
+}
